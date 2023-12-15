@@ -1258,6 +1258,57 @@
             "rid": "win"
           }
         }
+      },
+      "ErenBankMVC.BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ErenBankMVC.DataAccessLayer": "1.0.0",
+          "ErenBankMVC.EntityLayer": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.1.39",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.25",
+          "Microsoft.EntityFrameworkCore": "6.0.25",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
+        },
+        "compile": {
+          "bin/placeholder/ErenBankMVC.BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ErenBankMVC.BusinessLayer.dll": {}
+        }
+      },
+      "ErenBankMVC.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ErenBankMVC.EntityLayer": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.1.39",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.25",
+          "Microsoft.EntityFrameworkCore": "6.0.25",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
+        },
+        "compile": {
+          "bin/placeholder/ErenBankMVC.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ErenBankMVC.DataAccessLayer.dll": {}
+        }
+      },
+      "ErenBankMVC.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.1.39",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.25",
+          "Microsoft.EntityFrameworkCore": "6.0.25",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
+        },
+        "compile": {
+          "bin/placeholder/ErenBankMVC.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ErenBankMVC.EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -2919,10 +2970,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ErenBankMVC.BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../ErenBankMVC.BusinessLayer/ErenBankMVC.BusinessLayer.csproj",
+      "msbuildProject": "../ErenBankMVC.BusinessLayer/ErenBankMVC.BusinessLayer.csproj"
+    },
+    "ErenBankMVC.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../ErenBankMVC.DataAccessLayer/ErenBankMVC.DataAccessLayer.csproj",
+      "msbuildProject": "../ErenBankMVC.DataAccessLayer/ErenBankMVC.DataAccessLayer.csproj"
+    },
+    "ErenBankMVC.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../ErenBankMVC.EntityLayer/ErenBankMVC.EntityLayer.csproj",
+      "msbuildProject": "../ErenBankMVC.EntityLayer/ErenBankMVC.EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ErenBankMVC.BusinessLayer >= 1.0.0",
+      "ErenBankMVC.DataAccessLayer >= 1.0.0",
+      "ErenBankMVC.EntityLayer >= 1.0.0",
       "Microsoft.AspNetCore.Identity >= 2.1.39",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.25",
       "Microsoft.EntityFrameworkCore >= 6.0.25",
@@ -2963,7 +3032,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.BusinessLayer\\ErenBankMVC.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.BusinessLayer\\ErenBankMVC.BusinessLayer.csproj"
+            },
+            "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.DataAccessLayer\\ErenBankMVC.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.DataAccessLayer\\ErenBankMVC.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.EntityLayer\\ErenBankMVC.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.EntityLayer\\ErenBankMVC.EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

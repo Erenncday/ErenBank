@@ -21,4 +21,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ErenBankMVC.BusinessLayer\ErenBankMVC.BusinessLayer.csproj" />
+    <ProjectReference Include="..\ErenBankMVC.DataAccessLayer\ErenBankMVC.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\ErenBankMVC.EntityLayer\ErenBankMVC.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>
