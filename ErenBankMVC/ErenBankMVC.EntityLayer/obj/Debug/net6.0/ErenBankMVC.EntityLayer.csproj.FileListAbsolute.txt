@@ -1,0 +1,14 @@
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\bin\Debug\net6.0\ErenBankMVC.EntityLayer.deps.json
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\bin\Debug\net6.0\ErenBankMVC.EntityLayer.runtimeconfig.json
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\bin\Debug\net6.0\ErenBankMVC.EntityLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\bin\Debug\net6.0\ErenBankMVC.EntityLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.AssemblyInfo.cs
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\refint\ErenBankMVC.EntityLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ErenBankMVC.EntityLayer.genruntimeconfig.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.EntityLayer\obj\Debug\net6.0\ref\ErenBankMVC.EntityLayer.dll

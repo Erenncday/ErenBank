@@ -13,7 +13,7 @@ namespace ErenBankMVC.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=;inital catalog=ErenBankDb; integrated Security=true");
+            optionsBuilder.UseSqlServer("server=DESKTOP-8F7K55C\\SQLEXPRESS;initial catalog=ErenBankDb; integrated security=true");
         }
         public DbSet<CustomerAccount> CustomerAccounts { get; set; }
         public DbSet<CustomerAccountProcess> CustomerAccountProcesses { get; set; }

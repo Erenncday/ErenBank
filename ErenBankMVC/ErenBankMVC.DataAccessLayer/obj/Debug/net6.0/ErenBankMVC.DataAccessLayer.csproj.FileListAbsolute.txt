@@ -1,0 +1,17 @@
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\bin\Debug\net6.0\ErenBankMVC.DataAccessLayer.deps.json
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\bin\Debug\net6.0\ErenBankMVC.DataAccessLayer.runtimeconfig.json
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\bin\Debug\net6.0\ErenBankMVC.DataAccessLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\bin\Debug\net6.0\ErenBankMVC.DataAccessLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\bin\Debug\net6.0\ErenBankMVC.EntityLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\bin\Debug\net6.0\ErenBankMVC.EntityLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.AssemblyInfo.cs
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.csproj.CopyComplete
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\refint\ErenBankMVC.DataAccessLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ErenBankMVC.DataAccessLayer.genruntimeconfig.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DataAccessLayer\obj\Debug\net6.0\ref\ErenBankMVC.DataAccessLayer.dll

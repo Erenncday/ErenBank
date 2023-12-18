@@ -1,0 +1,14 @@
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\bin\Debug\net6.0\ErenBankMVC.DtoLayer.deps.json
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\bin\Debug\net6.0\ErenBankMVC.DtoLayer.runtimeconfig.json
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\bin\Debug\net6.0\ErenBankMVC.DtoLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\bin\Debug\net6.0\ErenBankMVC.DtoLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.AssemblyInfo.cs
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\refint\ErenBankMVC.DtoLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ErenBankMVC.DtoLayer.genruntimeconfig.cache
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.DtoLayer\obj\Debug\net6.0\ref\ErenBankMVC.DtoLayer.dll
