@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5vGtdzZgdBHoI4uDI7o20zOozd3biQLP3ZKl3MIIhj6vsZY8IrXh9IvXZCj6StlNbMKTs1rPSFlki6mogEmBfQ==",
+  "dgSpecHash": "KE85Fg7jhr3Te7aTzndsookD+PRlqB+xYpzBQLYlh1kMVjbwO0bmHnG2n1y+JEF8d0tS3W3efx94tPa77c5Jqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.BusinessLayer\\ErenBankMVC.BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\oyunu\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\oyunu\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\oyunu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.1\\fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "C:\\Users\\oyunu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\oyunu\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\oyunu\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
