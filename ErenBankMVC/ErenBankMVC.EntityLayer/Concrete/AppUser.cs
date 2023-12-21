@@ -14,5 +14,7 @@ namespace ErenBankMVC.EntityLayer.Concrete
         public string City { get; set; } //İl
         public string District { get; set; } //İlçe
         public string ImageUrl { get; set; }
+
+        public List<CustomerAccount> CustomerAccounts { get; set; }
     }
 }

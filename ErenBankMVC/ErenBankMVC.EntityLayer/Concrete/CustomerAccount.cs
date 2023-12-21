@@ -14,5 +14,8 @@ namespace ErenBankMVC.EntityLayer.Concrete
         public decimal CustomerAccountBalance { get; set; } // Hesapta bulunan bakiye
         public string BankBranch { get; set; } // Hesabın bağlı bulunduğu şube
 
+        public int AppUserId { get; set; }
+        public AppUser AppUser { get; set; }
+
     }
 }
