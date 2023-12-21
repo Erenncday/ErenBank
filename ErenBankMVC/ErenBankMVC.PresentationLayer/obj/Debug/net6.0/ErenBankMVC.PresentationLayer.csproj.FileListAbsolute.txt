@@ -77,3 +77,9 @@ C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.Present
 C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\obj\Debug\net6.0\ErenBankMVC.PresentationLayer.pdb
 C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\obj\Debug\net6.0\ErenBankMVC.PresentationLayer.genruntimeconfig.cache
 C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\obj\Debug\net6.0\ref\ErenBankMVC.PresentationLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\bin\Debug\net6.0\ErenBankMVC.DtoLayer.dll
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\bin\Debug\net6.0\ErenBankMVC.DtoLayer.pdb
+C:\Users\oyunu\OneDrive\Belgeler\GitHub\ErenBank\ErenBankMVC\ErenBankMVC.PresentationLayer\obj\Debug\net6.0\ErenBankMVC.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
