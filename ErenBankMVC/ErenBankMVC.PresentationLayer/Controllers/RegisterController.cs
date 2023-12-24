@@ -31,6 +31,9 @@ namespace ErenBankMVC.PresentationLayer.Controllers
                     Name = appUserRegisterDto.Name,
                     Surname = appUserRegisterDto.Surname,
                     Email = appUserRegisterDto.Email,
+                    City = "İstanbul",
+                    District = "Ataşehir",
+                    ImageUrl = "Resim"
                 };
 
                 var result = await _userManager.CreateAsync(appUser, appUserRegisterDto.Password);
@@ -38,6 +41,14 @@ namespace ErenBankMVC.PresentationLayer.Controllers
                 if (result.Succeeded) 
                 {
                     return RedirectToAction("Index", "ConfirmMail");
+
+                }
+                else
+                {
+                    foreach(var item in result.Errors)
+                    {
+                        ModelState.AddModelError("", item.Description);
+                    }
                 }
             }
 
