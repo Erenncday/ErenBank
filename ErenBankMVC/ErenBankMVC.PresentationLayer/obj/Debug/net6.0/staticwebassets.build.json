@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7T6pw5ZRiKIaIrcA2pTPyrcI5vgbHVNZwj+J29+eqCU=",
+  "Hash": "Wx1cxZVd8pgqVUh3f50wt++ohw2nDeIL9A1obxIXEtY=",
   "Source": "ErenBankMVC.PresentationLayer",
   "BasePath": "_content/ErenBankMVC.PresentationLayer",
   "Mode": "Default",
@@ -2276,6 +2276,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Temelar\\Dashboard\\package.json"
+    },
+    {
+      "Identity": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.PresentationLayer\\wwwroot\\Temelar\\Dashboard\\package-lock.json",
+      "SourceId": "ErenBankMVC.PresentationLayer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.PresentationLayer\\wwwroot\\",
+      "BasePath": "_content/ErenBankMVC.PresentationLayer",
+      "RelativePath": "Temelar/Dashboard/package-lock.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Temelar\\Dashboard\\package-lock.json"
     },
     {
       "Identity": "C:\\Users\\oyunu\\OneDrive\\Belgeler\\GitHub\\ErenBank\\ErenBankMVC\\ErenBankMVC.PresentationLayer\\wwwroot\\Temelar\\Dashboard\\production\\calendar.html",
